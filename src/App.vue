@@ -1,13 +1,19 @@
 <template>
-	<div id="app">
-		<span>el-v-dlc</span>
-	</div>
+  <div id="app">App</div>
 </template>
 
 <script>
 export default {
-	name: 'App',
+  name: 'App',
+  data() {
+    return {}
+  },
+  computed: {},
+  watch: {},
+  created() { },
+  mounted() { },
+  methods: {},
 }
 </script>
 
-<style></style>
+<style scoped></style>
