@@ -1,6 +1,6 @@
 {
 	"name": "element2-v-dlc",
-	"version": "0.0.1",
+	"version": "0.1.2",
 	"description": "实现Element2一些组件的虚拟化滚动",
 	"main": "dist/element-v-dlc.ssr.js",
 	"browser": "dist/element-v-dlc.esm.js",

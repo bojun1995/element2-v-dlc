@@ -1,2 +1,1 @@
-/* eslint-disable import/prefer-default-export */
-export { default as ElementVDlcSample } from './element-v-dlc-sample.vue';
+export { default as ElVSelect } from './el-v-select/index.vue'
