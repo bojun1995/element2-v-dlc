@@ -73,6 +73,4 @@ export default {
 	width: 300px;
 	border: 1px solid #000000;
 }
-.drop-down-item {
-}
 </style>
