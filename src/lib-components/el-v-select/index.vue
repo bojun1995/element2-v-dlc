@@ -54,8 +54,6 @@ export default {
   },
   methods: {
     onScroll(e) {
-      // let curTime = new Date().getTime()
-      console.log('do scroll')
       this.scrollOffsetY = e.target.scrollTop - (e.target.scrollTop % this.itemHeight)
 
       let startIdx = Math.floor(e.target.scrollTop / this.itemHeight)
